@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1496592311 source:c:\users\jaciara\documents\arquivos ix semestre\programação paralela e distribuída\trabalho\trabalho_ppd\main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<sys/types.h>
+	<time.h>
+
